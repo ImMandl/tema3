@@ -1,0 +1,35 @@
+#parallax-img-corvo {
+    height: 600px;
+    z-index: 0;
+}
+
+#parallax-img-daughter {
+    height: 600px;
+    z-index: 0;
+}
+
+.headimg {
+    text-align: center;
+}
+
+#corvo {
+    position: relative;
+}
+
+#daughter {
+    position: relative;
+}
+
+.grid {
+    display: grid;
+    max-width: 100%;
+    overflow: hidden;
+    grid-template-columns: minmax(200px, 1fr) minmax(200px, 1fr);
+    justify-content: center;
+    align-items: center;
+}
+
+.grid-header {
+    color: silver !important;
+    text-align: center !important;
+}

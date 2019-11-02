@@ -1,0 +1,89 @@
+#areas {
+    background-color: black;
+    height: 100%;
+    position: relative;
+}
+
+.area01 {
+    /*background: url("../img/karnaca/nicolas-petrimaux-templatecredit-dishonored2-eow05.jpg");
+    height: 100%;
+    background-size: cover;
+    text-align: center;*/
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.area1 {
+    width: 100vw;
+    height: 100vh;
+    background-image: url("../img/karnaca/nicolas-petrimaux-templatecredit-dishonored2-eow05.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.area02 {
+    /*   background: url("../img/karnaca/data.images.event.209.Dishonored2_TheBay_FULL.jpg");
+    height: 100vh;
+    background-size: cover;*/
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.area2 {
+    width: 100vw;
+    height: 100vh;
+    background-image: url("../img/karnaca/data.images.event.209.Dishonored2_TheBay_FULL.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.area03 {
+    /*  background: url("../img/karnaca/data.images.event.209.Dishonored2_DustDistrict_FULL.jpg");
+    height: 863px;
+    background-size: cover;
+    text-align: center;
+    transition: ease-out;*/
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.area3 {
+    width: 100vw;
+    height: 100vh;
+    background-image: url("../img/karnaca/data.images.event.209.Dishonored2_DustDistrict_FULL.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.area04 {
+    /*background: url("../img/karnaca/data.images.event.209.Dishonored2_AddermireInstitute_FULL.jpg");
+    height: 100vh;
+    background-size: cover;*/
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.area4 {
+    width: 100vw;
+    height: 100vh;
+    background-image: url("../img/karnaca/data.images.event.209.Dishonored2_AddermireInstitute_FULL.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.content {
+    height: 5px;
+    background-color: black;
+}
