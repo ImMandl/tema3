@@ -53,6 +53,7 @@ article {
   padding-top: 275px;
   margin: auto;
   animation: hero 2s linear;
+  animation-delay: 1.5s;
   transform-origin: center center;
 }
 
